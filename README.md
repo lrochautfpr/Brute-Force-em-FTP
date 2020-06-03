@@ -1,2 +1,2 @@
-# Brute-Force-em-FTP
-Brute force FTP service
+ftpbruteforce.py
+Brute force no serviço FTP
