@@ -1,2 +1,2 @@
-# bruteforce-ftp.py
+# ftpbruteforce.py
 Brute force no serviço FTP
